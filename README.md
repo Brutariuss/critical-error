@@ -1,0 +1,2 @@
+# critical-error
+i have playing the game, as i went AFK, and when i came back, everything was like frozen but i could move, so i wanted to keep playing but as i said....i couldn't so i closed the gamn, and when i wanted to open it, it said "This application has encountered a critical error" i tryed deleting the errors, restarting my PC and run it as administrator too!...but sadly nothing helped...so i want here to perhaps get some help. please help me 
